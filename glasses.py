@@ -4,7 +4,7 @@ import os
 import datetime
 pygame.init()
 global rot_screen
-rotate = 0
+rotate = 1
 #this is a test
 tmp_screen = pygame.display.set_mode((540, 960))
 if rotate == 0:
